@@ -1,7 +1,5 @@
 ### Hello there! 👋
 
-<!--
-**MohammadSheikh/MohammadSheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   My name is Mahamadsaad Sheikh (a.k.a. Mahamad).
   
@@ -11,4 +9,3 @@
   📫 How to reach me: 
       [LinkedIn](https://linkedin.com/in/mahamadsaadsheikh
       [E-Mail](mahamadsheikh24@gmail.com)
--->
