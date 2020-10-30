@@ -1,9 +1,8 @@
 ### Hello there! 👋
 
 
-  My name is Mahamadsaad Sheikh (a.k.a. Mahamad).
+  My name is Mahamadsaad Sheikh (a.k.a. Mahamad).🌱 I’m currently a junior at UC Riverside studying Computer Science. 
   
-  🌱 I’m currently majoring in Computer Science at UC Riverside 
   ### 👯 I’m looking:
   For an internship for Summer 2021!
   ### 🤔 I’m interested in:
