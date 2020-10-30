@@ -9,6 +9,5 @@
   ### 🤔 I’m interested in:
   Collaborating on software projects.
   ### 📫 How to reach me: 
-  [LinkedIn](https://www.linkedin.com/in/mahamadsaadsheikh
-  [E-Mail](mailto:mahamadsheikh24@gmail.com)
+  Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mahamadsaadsheikh) and [E-Mail](mailto:mahamadsheikh24@gmail.com)
       
